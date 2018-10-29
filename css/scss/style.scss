@@ -1,0 +1,45 @@
+h1{
+    font-family: fantasy;
+  }
+  
+  .para_1{
+    font-style: oblique;
+  }
+  
+    a:link {    /* unvisited link */
+      color: #FF0000;
+      text-decoration: none;
+  }
+  a:visited {    /* visited link */
+      color: #00FF00;
+  }
+  a:hover {    /* mouse over link */
+      color: #FF00FF;
+      text-decoration: underline;
+      /* width: 100px; */
+  }
+  a:active {    /* active link */
+      color: #0000FF;
+  }
+  div {
+      label {
+      color: blue;
+  }
+}
+  ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: red;
+  }
+  button{
+    color: green;
+  }
+  .container{
+    background-color: grey;
+  }
+  .footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  body{
+      margin:0;
+  }
