@@ -11,12 +11,25 @@ body {
   
   h1{
   /*aligning has tags
-  syle in order, same as html layout  */
+  style in order, same as html layout  */
     text-align: center;
     background-color: white;
     padding:10px;
   
     /*takes color of the last color command  */
     /*block level elements start on a new level  */
+  }
+  
+  h2{
+      text-align-last: center;
+      font-family: cursive
+
+  }
+
+  p{
+      text-align: center;
+      margin-left: 5px;
+      margin-right: 5px;
+      
   }
   
